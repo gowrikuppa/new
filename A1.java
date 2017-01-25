@@ -17,5 +17,7 @@ public class A1{
 			System.out.println("Both numbers are equal" );
 		}
 		return "gowrikuppa";
+
+		return "shankar";
 	}
 }
