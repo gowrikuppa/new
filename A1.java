@@ -16,5 +16,6 @@ public class A1{
 		else{
 			System.out.println("Both numbers are equal" );
 		}
+		return "gowri1";
 	}
 }
